@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 10:55+0000\n"
-"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"POT-Creation-Date: 2016-04-03 16:14+0000\n"
+"PO-Revision-Date: 2016-04-03 16:14+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: bg\n"
@@ -246,12 +246,12 @@ msgstr "Отборен режим на игра, където отборите �
 msgid "Open chat"
 msgstr "Отвори чат"
 
-msgid "The game server is suggesting you can watch this match on TV. Do you agree?"
-msgstr "Сървъра предлага да гледате този мач по TV. Съгласни ли сте?"
+msgid "The game server is suggesting you can watch this match on WarsowTV. Do you agree?"
+msgstr "Сървъра предлага да гледате този мач по WarsowTV. Съгласни ли сте?"
 
 #. %s - hostname, ip:port, time
-msgid "You will be automatically connected to TV server \"%s\" at %s in %s seconds..."
-msgstr "Ще бъдете автоматично свързан към TV сървър \"%s\" на адрес %s след %s секунди..."
+msgid "You will be automatically connected to WarsowTV server \"%s\" at %s in %s seconds..."
+msgstr "Ще бъдете автоматично свързан към WarsowTV сървър \"%s\" на адрес %s след %s секунди..."
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"

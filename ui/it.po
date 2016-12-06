@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-03-26 10:55+0000\n"
-"PO-Revision-Date: 2016-03-26 10:55+0000\n"
+"POT-Creation-Date: 2016-12-05 19:41+0000\n"
+"PO-Revision-Date: 2016-12-05 19:41+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
 "Language: it\n"
@@ -10,6 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
+msgid "Show chasers on the scoreboard"
+msgstr "Mostra spettatori sulla scoreboard"
 
 msgid "Restart race"
 msgstr "Ricomincia gara"
@@ -152,7 +156,7 @@ msgid "Frag an opponent 2 times in a short time frame"
 msgstr "Uccidi un avversario 2 volte in poco tempo"
 
 msgid "View match info"
-msgstr "Visualizza partita"
+msgstr "Vedi info partita"
 
 #. Award: Fraglord!
 msgid "Get 15 frags in a row without getting fragged"
@@ -430,12 +434,12 @@ msgstr "Modalità di gioco a squadra dove ogni squadra deve conquistare il contr
 msgid "Open chat"
 msgstr "Apri chat"
 
-msgid "The game server is suggesting you can watch this match on TV. Do you agree?"
-msgstr "Il server di gioco ti invita a guardare questa partita su TV. Accetti?"
+msgid "The game server is suggesting you can watch this match on WarsowTV. Do you agree?"
+msgstr "Il server di gioco ti invita a guardare questa partita su WarsowTV. Accetti?"
 
 #. %s - hostname, ip:port, time
-msgid "You will be automatically connected to TV server \"%s\" at %s in %s seconds..."
-msgstr "Sarai automaticamente connesso al server di TV \"%s\" a %s in %s secondi..."
+msgid "You will be automatically connected to WarsowTV server \"%s\" at %s in %s seconds..."
+msgstr "Sarai automaticamente connesso al server di WarsowTV \"%s\" a %s in %s secondi..."
 
 #. This option enables movement with +forward bunny hopping aka newmovement
 msgid "Acceleration on forward jumping"
