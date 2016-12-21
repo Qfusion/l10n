@@ -13,7 +13,7 @@ msgstr ""
 
 #. "Personal spectators", a list of spectators who watch the same POV, or watching you playing.
 msgid "Chasers"
-msgstr "Персональные зрители"
+msgstr "Созрители"
 
 msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
 msgstr "Сейчас вы находитесь в очереди игроков, бросивших вызов и ожидающих своей игры.\nВы можете воспользоваться игровым меню, чтобы стать наблюдателем."
@@ -258,3 +258,12 @@ msgstr "Осталась 1 минута. Поторопитесь!"
 
 msgid "Fight!"
 msgstr "В бой!"
+
+msgid "FIGHT!"
+msgstr "В БОЙ!"
+
+msgid "%s MINUTE OVERTIME\n"
+msgstr "ДОБАВЛЕНО %s МИНУТЫ\n"
+
+msgid "Overtime"
+msgstr "Дополнительное время"
