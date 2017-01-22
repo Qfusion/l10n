@@ -1,14 +1,16 @@
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:14+0000\n"
-"PO-Revision-Date: 2016-04-03 16:14+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: zh\n"
+"Project-Id-Version: Qfusion Translations\n"
+"POT-Creation-Date: 2016-03-26 11:04+0000\n"
+"PO-Revision-Date: 2017-01-22 11:39+0000\n"
+"Last-Translator: Andrei Stepanov\n"
+"Language-Team: Chinese (http://www.transifex.com/qfusion/l10n/language/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Vsay/Quickmenu item
@@ -18,6 +20,10 @@ msgstr "需要进攻"
 #. Vsay/Quickmenu item
 msgid "Need help"
 msgstr "需要帮助"
+
+#. Vsay/Quickmenu item
+msgid "Armor free"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Area secured"
@@ -68,6 +74,14 @@ msgid "Negative"
 msgstr "拒绝"
 
 #. Vsay/Quickmenu item
+msgid "Go to quad"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "Go to powerup"
+msgstr ""
+
+#. Vsay/Quickmenu item
 msgid "Need health"
 msgstr "需要血包"
 
@@ -80,12 +94,24 @@ msgid "Need armor"
 msgstr "需要盔甲"
 
 #. Vsay/Quickmenu item
+msgid "On defense"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "On offense"
+msgstr ""
+
+#. Vsay/Quickmenu item
 msgid "Yes"
 msgstr "是"
 
 #. Vsay/Quickmenu item
 msgid "No"
 msgstr "不"
+
+#. Vsay/Quickmenu item
+msgid "Oops"
+msgstr ""
 
 #. Vsay/Quickmenu item
 msgid "Sorry"
@@ -96,11 +122,26 @@ msgid "Thanks"
 msgstr "谢谢"
 
 #. Vsay/Quickmenu item
+msgid "Yeehaa"
+msgstr ""
+
+#. Vsay/Quickmenu item
 msgid "Good game"
 msgstr "好游戏"
 
+#. Vsay/Quickmenu item
+msgid "Booo"
+msgstr ""
+
+#. Vsay/Quickmenu item
+msgid "Affirmative"
+msgstr ""
+
 msgid "MM Login: Password error"
 msgstr "MM Login: 密码错误"
+
+msgid "MM Login: Can't login to MM while connected to server"
+msgstr ""
 
 msgid "Frags"
 msgstr "得分"
@@ -113,6 +154,10 @@ msgstr "团队说:"
 
 msgid "Connection timed out"
 msgstr "连接超时"
+
+#. Bomb option, enables projectile for Gunblade
+msgid "Strong Gunblade"
+msgstr ""
 
 msgid "MM Login: authentication timeout"
 msgstr "MM Login: 验证超时"
@@ -272,4 +317,3 @@ msgstr "弹药包"
 
 msgid "say:"
 msgstr "说："
-
