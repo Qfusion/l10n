@@ -1,20 +1,32 @@
+# Translators:
+# Translators:
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: VERSION\n"
-"POT-Creation-Date: 2016-04-03 16:16+0000\n"
-"PO-Revision-Date: 2016-04-03 16:16+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: fr\n"
+"Project-Id-Version: Qfusion Translations\n"
+"POT-Creation-Date: 2016-12-06 11:03+0000\n"
+"PO-Revision-Date: 2017-01-22 11:56+0000\n"
+"Last-Translator: Andrei Stepanov\n"
+"Language-Team: French (http://www.transifex.com/qfusion/l10n/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "You are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue."
+#. "Personal spectators", a list of spectators who watch the same POV, or
+#. watching you playing.
+msgid "Chasers"
+msgstr ""
+
+msgid ""
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue."
 msgstr "Vous êtes dans la file et attendez votre tour de jouer.\nUtilisez le menu pour sortir de la file d'attente."
 
-msgid "Use the in-game menu to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner."
+msgid ""
+"Use the in-game menu to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner."
 msgstr "Utilisez le menu pour entrer dans la file d'attente.\nSeuls les joueurs de la file d'attente pourront jouer à leur tour contre le dernier vainqueur."
 
 msgid "Set yourself READY using the in-game menu to start the match!"
@@ -23,7 +35,17 @@ msgstr "Indiquez lorsque vous êtes PRÊT en utilisant le menu à commencer le m
 msgid "Waiting for players."
 msgstr "En attente de joueurs."
 
-#. TDM scoreboard column, try to make it as short as possible, 5 symbols max! Net = Frags - Deaths - Team Kills, see https://en.wikipedia.org/wiki/Net_(economics)
+#. User has entered practice mode in Race
+msgid "Entered practice mode"
+msgstr ""
+
+#. User has left practice mode in Race
+msgid "Left practice mode"
+msgstr ""
+
+#. TDM scoreboard column, try to make it as short as possible, 5 symbols max!
+#. Net = Frags - Deaths - Team Kills, see
+#. https://en.wikipedia.org/wiki/Net_(economics)
 msgid "Net"
 msgstr "Net"
 
@@ -54,11 +76,13 @@ msgstr "Attention, vous tirez sur les membres de votre équipe !"
 msgid "Don't shoot at members of your team!"
 msgstr "Ne tirez pas sur les membres de votre équipe !"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU TEAMFRAGGED %s"
 msgstr "VOUS AVEZ FRAGGÉ VOTRE COÉQUIPIER %s"
 
-#. Please, don't use "kill/death" for the translation of "frag", try to find something more neutral
+#. Please, don't use "kill/death" for the translation of "frag", try to find
+#. something more neutral
 msgid "YOU FRAGGED %s"
 msgstr "VOUS AVEZ FRAGGÉ %s"
 
@@ -93,7 +117,10 @@ msgstr "MORT SUBITE"
 msgid "someplace"
 msgstr "quelque part"
 
-msgid "Set yourself READY to start the match!\nYou can use the in-game menu or simply press 'F4'.\n'ESC' for in-game menu or 'ENTER' for in-game chat."
+msgid ""
+"Set yourself READY to start the match!\n"
+"You can use the in-game menu or simply press 'F4'.\n"
+"'ESC' for in-game menu or 'ENTER' for in-game chat."
 msgstr "Indiquez lorsque vous êtes PRÊT à commencer le match !\nVous pouvez utiliser le menu ou appuyer simplement sur la touche \"F4\".\n\"Echap\" pour le menu ou \"Entrée\" pour le chat."
 
 msgid "Waiting... %s"
@@ -124,7 +151,10 @@ msgstr "Il n'y a personne à suivre"
 msgid "Name"
 msgstr "Nom"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nMouse buttons for switching spectator modes.\nThis message can be hidden by disabling 'help' in player setup menu."
+msgid ""
+"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Mouse buttons for switching spectator modes.\n"
+"This message can be hidden by disabling 'help' in player setup menu."
 msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\nCliquez pour alterner entre les différents points de vue du mode \"spectateur\".\nCe message peut-être caché en désactivant l'aide dans le menu des options de joueur."
 
 msgid "Bomb defused!"
@@ -155,7 +185,9 @@ msgstr "De"
 msgid "Ping"
 msgstr "Ping"
 
-#. It is for "headhunt", one player is tagged and all other players attempt to frag the tagged player. Tagged player gets score for each second he/she stays alive. So tag time is time of him being tagged.
+#. It is for "headhunt", one player is tagged and all other players attempt to
+#. frag the tagged player. Tagged player gets score for each second he/she
+#. stays alive. So tag time is time of him being tagged.
 msgid "Tagtime"
 msgstr "Temps en mode \"marqué\""
 
@@ -229,15 +261,41 @@ msgstr "Peu de munitions"
 msgid "Out Of Ammo"
 msgstr "Plus de munitions"
 
-msgid "Waiting for players.\n'ESC' for in-game menu."
+msgid ""
+"Waiting for players.\n"
+"'ESC' for in-game menu."
 msgstr "En attente de joueurs.\n\"Echap\" pour le menu."
 
 msgid "Message of the day:"
 msgstr "Message du jour :"
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nYou are inside the challengers queue waiting for your turn to play.\nUse the in-game menu to exit the queue.\n\nUse the mouse buttons for switching spectator modes."
+msgid ""
+"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"You are inside the challengers queue waiting for your turn to play.\n"
+"Use the in-game menu to exit the queue.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
 msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\nVous êtes dans la file et attendez votre tour de jouer.\nUtilisez le menu pour sortir de la file d'attente.\n\nCliquez pour alterner entre les différents points de vue du mode \"spectateur\"."
 
-msgid "'ESC' for in-game menu or 'ENTER' for in-game chat.\nUse the in-game menu or press 'F3' to enter the challengers queue.\nOnly players in the queue will have a turn to play against the last winner.\n\nUse the mouse buttons for switching spectator modes."
+msgid ""
+"'ESC' for in-game menu or 'ENTER' for in-game chat.\n"
+"Use the in-game menu or press 'F3' to enter the challengers queue.\n"
+"Only players in the queue will have a turn to play against the last winner.\n"
+"\n"
+"Use the mouse buttons for switching spectator modes."
 msgstr "\"Echap\" pour le menu ou \"Entrée\" pour le chat.\nUtilisez le menu ou appuyez sur la touche \"F3\" pour entrer dans la file d'attente.\nSeuls les joueurs de la file d'attente pourront jouer à leur tour contre le dernier vainqueur.\n\nCliquez pour alterner entre les différents points de vue du mode \"spectateur\"."
 
+msgid "1 minute left. Hurry up!"
+msgstr ""
+
+msgid "Fight!"
+msgstr ""
+
+msgid "FIGHT!"
+msgstr ""
+
+msgid "%s MINUTE OVERTIME\n"
+msgstr ""
+
+msgid "Overtime"
+msgstr ""
