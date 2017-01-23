@@ -768,6 +768,9 @@ msgstr "Graphics profile"
 msgid "Fullscreen"
 msgstr "Fullscreen"
 
+msgid "Borderless fullscreen"
+msgstr "Borderless fullscreen"
+
 msgid "Vertical sync"
 msgstr "Vertical sync"
 
