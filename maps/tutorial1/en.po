@@ -1,14 +1,16 @@
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: VERSION\n"
+"Project-Id-Version: Qfusion Translations\n"
 "POT-Creation-Date: 2016-03-06 16:13+0000\n"
-"PO-Revision-Date: 2016-03-06 16:13+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
-"Language: en\n"
+"PO-Revision-Date: 2017-01-23 17:04+0000\n"
+"Last-Translator: Andrei Stepanov\n"
+"Language-Team: English (http://www.transifex.com/qfusion/l10n/language/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "welcome_to_tutorial"
@@ -97,4 +99,3 @@ msgstr "^2Health items^7 replenish your health points.\n^2Green^7 bubbles restor
 
 msgid "armor"
 msgstr "^1Armor^7 is important as it reduces the damage taken.\nThe small ^2armor shards^7 are the weakest, the ^2green armor^7 chestplate gives a weak amount.\n^3Yellow^7 and ^1red^7 chestplates give you a medium or great amount of armor.\nMind that there is a ^3maximum amount of armor value^7 you can get with each armor type!"
-
