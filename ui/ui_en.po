@@ -13,11 +13,6 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. "Personal spectators", a list of spectators who watch the same POV, or
-#. watching you playing.
-msgid "Show chasers on the scoreboard"
-msgstr "Show chasers on the scoreboard"
-
 msgid "Restart race"
 msgstr "Restart race"
 
